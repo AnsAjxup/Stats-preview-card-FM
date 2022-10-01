@@ -1,0 +1,38 @@
+.card{
+    width: 90rem;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+.picture{
+    width: 50%;
+    border-radius: 0 1rem 1rem 0;
+}
+.img-card{
+    width: 100%;
+}
+.img-filter{
+    width: 50%;
+    height: 372px;
+    border-radius: 0 1rem 1rem 0;
+}
+.content-card{
+    width: 50%;
+    padding: 5rem;
+}
+.title{
+    text-align: left;
+    font-size: 2.8rem;
+}
+.paragraph{
+    text-align: left;
+    width: 80%;
+}
+.stat-container{
+    text-align: left;
+    display: flex;
+    gap: 1rem;
+}
+.stat{
+    width: 10rem;
+}
