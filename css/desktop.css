@@ -4,16 +4,9 @@
     flex-direction: row-reverse;
     align-items: center;
 }
-.picture{
-    width: 50%;
-    border-radius: 0 1rem 1rem 0;
-}
-.img-card{
-    width: 100%;
-}
 .img-filter{
     width: 50%;
-    height: 372px;
+    height: 371.66px;
     border-radius: 0 1rem 1rem 0;
 }
 .content-card{
